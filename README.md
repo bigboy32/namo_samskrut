@@ -8,7 +8,7 @@ Support are welcome in following activities:
 
 * Building structured Sanskrit dictionary
 * Motivation factors to learn sanskrit
-* Need to students leaerning sanskrit
+* Need of students learning sanskrit to help themself enjoy the bliss of Life/Knowledge.
 * Need of teachers in learning sanskrit
 * Ideas to learn with love and joy
 
