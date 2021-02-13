@@ -1,6 +1,6 @@
 # Namo Samskrut
 
-## _Our mission is to make learning the Sanskrit language easier and fun_
+## _Our mission is to ease learning of the Sanskrit language_
 
 ## How you can support?
 
