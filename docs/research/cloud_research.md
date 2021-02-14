@@ -21,5 +21,5 @@ Research questions:
       * A Combination of Option 3 and pythonanywhere free tier is Good, since we can run the Website, for free and have the python api's on the other server, but pythonanywhere only gives 512 MB For free.
 
     Sample websites created during the research:
-        * http://namosanskrut-testpage.infinityfreeapp.com/ (Fairly new site, if not available, refresh the dns cache)
+        * (Fairly new site, if not available, refresh the dns cache): http://namosanskrut-testpage.infinityfreeapp.com/ 
    
