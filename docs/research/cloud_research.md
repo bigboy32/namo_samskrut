@@ -25,4 +25,4 @@ Research questions:
 
     Sample websites created during the research:
       * (Fairly new site, if not available, refresh the dns cache): http://namosanskrut-testpage.infinityfreeapp.com/ 
-   
+      * (Maby not yet up-and running): http://namosanskrut-testpage.ml   
