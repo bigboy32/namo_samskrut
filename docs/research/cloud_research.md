@@ -18,7 +18,7 @@ Research questions:
       * Infinityfree hosting on it's own provides DNS Names, but it only provides free domains containing '.infinityfreeaps.com' as subdomain and only supports PHP
     
     * Option 4:
-      * A Combination of Option 3 and pythonanywhere free tier is Good, since we can run the Website, for free and have the python api's on the other server. But pythonanywhere only gives 512 MB For free.
+      * A Combination of Option 3 and pythonanywhere free tier is Good, since we can run the Website, for free and have the python api's on the other server, but pythonanywhere only gives 512 MB For free.
 
     Sample websites created during the research:
       http://namosanskrut-testpage.infinityfreeapp.com/ (Fairly new site, if not available, refresh the dns cache)
