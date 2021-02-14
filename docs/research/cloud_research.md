@@ -24,5 +24,5 @@ Research questions:
       * A Combination of Option 3 and Heroku free tier is Good, since we can run the Website, for free and have the python api's on the other server. The Provided Free 1GB Is enough for the API.
 
     Sample websites created during the research:
-      * (Fairly new site, if not available, refresh the dns cache): http://namosanskrut-testpage.infinityfreeapp.com/ 
-      * (Maby not yet up-and running): http://namosanskrut-testpage.ml   
+      * (Fairly new site, if not available, refresh the dns cache): http://www.namosanskrut-testpage.infinityfreeapp.com/ 
+      * (Lasts only for 12 Months): http://www.namosanskrut-testpage.ml   
