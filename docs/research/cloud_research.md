@@ -21,7 +21,7 @@ Research questions:
       * A Combination of Option 3 and pythonanywhere free tier is Good, since we can run the Website, for free and have the python api's on the other server, but pythonanywhere only gives 512 MB For free. But for that it is easy to deploy
       
     * Option 5 (Best):
-      * A Combination of Option 3 and Heroku free tier is Good, since we can run the Website, for free and have the python api's on the other server. The Provided Free 1GB Is enough for the API. The only con is it is hard to deploy
+      * A Combination of Option 3 and Heroku free tier is Good, since we can run the Website, for free and have the python api's on the other server. The Provided Free 1GB Is enough for the API. The only Con is it is hard to deploy
       
 
     Sample websites created during the research:
