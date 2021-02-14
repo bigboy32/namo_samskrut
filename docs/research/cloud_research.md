@@ -17,8 +17,11 @@ Research questions:
     * Option 3:
       * Infinityfree hosting on it's own provides DNS Names, but it only provides free domains containing '.infinityfreeaps.com' as subdomain and only supports PHP
     
-    * Option 4 (Best):
+    * Option 4:
       * A Combination of Option 3 and pythonanywhere free tier is Good, since we can run the Website, for free and have the python api's on the other server, but pythonanywhere only gives 512 MB For free.
+      
+    * Option 5 (Best):
+      * A Combination of Option 3 and Heroku free tier is Good, since we can run the Website, for free and have the python api's on the other server. The Provided Free 1GB Is enough for the API.
 
     Sample websites created during the research:
       * (Fairly new site, if not available, refresh the dns cache): http://namosanskrut-testpage.infinityfreeapp.com/ 
