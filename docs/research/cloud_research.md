@@ -27,4 +27,4 @@ Research questions:
     Sample websites created during the research:
       * (Fairly new site, if not available, refresh the dns cache): http://www.namosanskrut-testpage.infinityfreeapp.com/ 
       * (Lasts only for 12 Months): http://www.namosanskrut-testpage.ml   
-      * (Pythonanywhere API Sample site): http://www.CoolNinja20104.pythonanywhere.com
+      * (Pythonanywhere API Sample site): http://coolninja20104.pythonanywhere.com
