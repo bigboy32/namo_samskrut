@@ -1,6 +1,25 @@
 Discussion points
 
+### 14.02.2021. IST: 20:00 to 21:00 
 
+* Participants: Anatha, KK.
+
+* Meeting points:
+  * Discussion on the backend
+  * What are we going to use for Backend, specifically framework
+  * Module/Algorithm: Python, C, C++, other framework support languages
+  * Cloud based: To be discussed. AWS educational. Domain for free: 
+  * Think big and act in (small) steps !.
+
+* Points to discuss
+  * Backend framework: Nodejs, Python, Apache => We will decided based on the cloud
+  * Standalone application design
+  * Phase-1: Webpage vs Android
+  * App name
+
+* Actions
+  * Cloud based research
+  * Google Firebase
 
 ### 07.02.2021. IST: 20:00 to 21:00 
 
