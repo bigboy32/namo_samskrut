@@ -8,7 +8,7 @@ Research questions:
 
 3. Research on the different clouds
   
-    * Option 1 (Worst):
+    * Option 1:
       * AWS offers a variety of tools, but it has a price tag.
 
     * Option 2:
@@ -16,11 +16,14 @@ Research questions:
 
     * Option 3:
       * Infinityfree hosting on it's own provides DNS Names, but it only provides free domains containing '.infinityfreeaps.com' as subdomain and only supports PHP
+     
+    * Option 4:
+      * 000webhost is a good option, but it has only 1 GB Of storage
     
-    * Option 4 (Best):
+    * Option 5 (Best):
       * A Combination of Option 3 and pythonanywhere free tier is Good, since we can run the Website, for free and have the python api's on the other server, but pythonanywhere only gives 512 MB For free. But for that it is easy to deploy
       
-    * Option 5 (Best):
+    * Option 6 (Best):
       * A Combination of Option 3 and Heroku free tier is Good, since we can run the Website, for free and have the python api's on the other server. The Provided Free 1GB Is enough for the API. The only Con is it is hard to deploy
       
 
