@@ -17,5 +17,6 @@ Support are welcome in following activities:
 * https://learnsanskrit.org/
 * https://spokensanskrit.org/
 * http://www.sanskrit.nic.in/about_us.php
+* https://sanskrit.uohyd.ac.in/scl/
 
 # Join hands in promoting universal centric language 
