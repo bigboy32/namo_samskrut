@@ -1,5 +1,29 @@
 Discussion points
 
+
+### 21.02.2021. IST: 20:00 to 21:00 
+
+* Participants: Anatha, KK.
+
+* Meeting points:
+  * Server: https://www.heroku.com/pricing 
+  * Content: can be on Heroku or InfinityApp
+  * Heroku is free for PoC, thus makes sense to get started.
+  * PythonAnyWhere: To do research. Potential for commercial app.
+  * InfinityFree App
+    * is free, we need PHP at server
+    * Creation of the domain via InfinityFree portal.
+    * InfinityFree we can also choose custom domain name.
+  * *Phase-1: Get started with Heroku. If more data storage needed, we can consider InfinityFree.*
+  * *Story of the application*: Teaching, Gaming, ec. TBD
+  * Phase-1: Contents: Text based, Image based.
+  * Phase-2: Phase-1 + Audio + Video
+  * Phase-3: + Mic
+* Focus: To have minimal infrastructure (basic, cloud/desktop) so that we can experiment on different stories.
+* Actions
+  * Research on the routing: Python Flask, Nodej-router
+  * Flutter code + firebase + heroku.
+
 ### 14.02.2021. IST: 20:00 to 21:00 
 
 * Participants: Anatha, KK.
