@@ -23,6 +23,7 @@ Discussion points
 * Actions
   * Research on the routing: Python Flask, Nodej-router
   * Flutter code + firebase + heroku.
+  * Write a independent content scrapping/extractor
 
 ### 14.02.2021. IST: 20:00 to 21:00 
 
