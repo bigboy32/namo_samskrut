@@ -1,5 +1,28 @@
 Discussion points
 
+### 21.02.2021. IST: 20:00 to 21:00 
+
+* Participants: Anatha, Sampath, KK.
+
+* Meeting points: 
+  * Learn by games => Score ! Rewarding !
+  * Simple games to begin with!
+  * Tricking Your Brain into Learning More: https://www.youtube.com/watch?v=9vJRopau0g0&ab_channel=TEDxTalks
+  * Feature/Action: Pronunciation: Static images/Gifs. 
+    * Ideal: Train neural network, one-shot learning, take spectrogram of a user, calibrate, check if matching, matching rate is the score
+    * Phase: 2/3
+  * Devanagari script integrated: 
+    * a. Devanagari Keyword: No,
+    * b. Vowels and consonants: ,
+    * c. User has to type in Devanagari keyboard?: 
+    * d. Couple of tools to use Devanagari? to explore. Research
+    * e. Multiple options => User action is to "click" one or multiple answer
+    * f. Display: Question with multiple answer options
+    * g. Database: List of
+
+| questions | answer options | with the levels | each answer rating|
+| --- | --- | --- | --- |
+| A | b | c | d|
 
 ### 21.02.2021. IST: 20:00 to 21:00 
 
