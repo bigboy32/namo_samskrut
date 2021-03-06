@@ -22,6 +22,7 @@ Discussion points
   * Python plugins:
     * https://pypi.org/project/indic-transliteration/
     * https://pypi.org/project/sanskrit-data/
+
 | questions | answer options | answer type| with the levels | each answer rating| description|
 | --- | --- | --- | --- | --- | --- |
 | A | b | c | d| e | f |
