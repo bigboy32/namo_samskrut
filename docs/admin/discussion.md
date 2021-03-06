@@ -20,9 +20,12 @@ Discussion points
     * f. Display: Question with multiple answer options
     * g. Database: List of
 
-| questions | answer options | with the levels | each answer rating|
-| --- | --- | --- | --- |
-| A | b | c | d|
+| questions | answer options | answer type| with the levels | each answer rating| description|
+| --- | --- | --- | --- | --- | --- |
+| A | b | c | d| e | f |
+
+  * Actions: 
+
 
 ### 21.02.2021. IST: 20:00 to 21:00 
 
