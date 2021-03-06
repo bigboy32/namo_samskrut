@@ -19,13 +19,17 @@ Discussion points
     * e. Multiple options => User action is to "click" one or multiple answer
     * f. Display: Question with multiple answer options
     * g. Database: List of
-
+  * Python plugins:
+    * https://pypi.org/project/indic-transliteration/
+    * https://pypi.org/project/sanskrit-data/
 | questions | answer options | answer type| with the levels | each answer rating| description|
 | --- | --- | --- | --- | --- | --- |
 | A | b | c | d| e | f |
 
   * Actions: 
-
+    * Sam: Coordnate for the collaboration. https://learnsanskrit.org/grammar/ 
+    * AH: Flutter firebase as PoC code commit in stages.
+    * KK:Manual data content so that UI design can be planned.
 
 ### 21.02.2021. IST: 20:00 to 21:00 
 
