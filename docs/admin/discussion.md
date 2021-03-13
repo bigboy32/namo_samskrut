@@ -1,5 +1,19 @@
 Discussion points
 
+
+### 21.02.2021. IST: 20:00 to 21:00 
+
+* Participants: Anatha, Sampath, KK.
+* Meeting points
+  * Review on the last stories
+  * Contact learnsanskrit for their database/content direct access
+  * UI/UX review
+    * level tabs may not be needed. With level tabs, screen looks over-loaded.
+    * Merge Badges and levels
+  * Create a platform where we can get the data contents
+    * Twitter, Facebook, Youtube, Quora
+    * Our own blog/forum/website, where people can contribute to the data content
+   
 ### 21.02.2021. IST: 20:00 to 21:00 
 
 * Participants: Anatha, Sampath, KK.
