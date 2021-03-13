@@ -18,5 +18,8 @@ Support are welcome in following activities:
 * https://spokensanskrit.org/
 * http://www.sanskrit.nic.in/about_us.php
 * https://sanskrit.uohyd.ac.in/scl/
+* Learn by images:
+  * https://in.pinterest.com/sanskritvarta/_created/  (https://pin.it/3x58PxP)
+  * https://in.pinterest.com/sanskritvarta/fruits-name-in-sanskrit-english/
 
 # Join hands in promoting universal centric language 
