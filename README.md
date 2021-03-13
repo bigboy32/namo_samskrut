@@ -17,5 +17,20 @@ Support are welcome in following activities:
 * https://learnsanskrit.org/
 * https://spokensanskrit.org/
 * http://www.sanskrit.nic.in/about_us.php
-
+* https://sanskrit.uohyd.ac.in/scl/
+* Course: https://livingsanskrit.com/our-courses/  (Social media: https://www.facebook.com/livingsanskrit/)
+* Learn by images:
+  * https://in.pinterest.com/sanskritvarta/_created/  (https://pin.it/3x58PxP)
+  * https://in.pinterest.com/sanskritvarta/fruits-name-in-sanskrit-english/
+* Social media
+  * Facebook
+    * Quotes: https://www.facebook.com/sanskrit4uofficial
+    * https://www.facebook.com/My-Sanskriti-519616111791774/photos
+  * Twitter:
+    * https://twitter.com/sanskritchannel?lang=en
+    * https://twitter.com/sanskrit_4u?lang=en
+    * https://twitter.com/sanskrittutors?lang=en
+  * Youtube
+    * Pranamya Kabbinale: https://www.youtube.com/channel/UCJJ5WEumC5SAF8l3DIAvp4g/videos
+    * The Sanskrit Channel: https://www.youtube.com/channel/UCqFg6QnwgtVHo1iFgpxrx-A
 # Join hands in promoting universal centric language 

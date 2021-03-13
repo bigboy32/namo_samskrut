@@ -1,5 +1,61 @@
 Discussion points
 
+### 21.02.2021. IST: 20:00 to 21:00 
+
+* Participants: Anatha, Sampath, KK.
+
+* Meeting points: 
+  * Learn by games => Score ! Rewarding !
+  * Simple games to begin with!
+  * Tricking Your Brain into Learning More: https://www.youtube.com/watch?v=9vJRopau0g0&ab_channel=TEDxTalks
+  * Feature/Action: Pronunciation: Static images/Gifs. 
+    * Ideal: Train neural network, one-shot learning, take spectrogram of a user, calibrate, check if matching, matching rate is the score
+    * Phase: 2/3
+  * Devanagari script integrated: 
+    * a. Devanagari Keyword: No,
+    * b. Vowels and consonants: ,
+    * c. User has to type in Devanagari keyboard?: 
+    * d. Couple of tools to use Devanagari? to explore. Research
+    * e. Multiple options => User action is to "click" one or multiple answer
+    * f. Display: Question with multiple answer options
+    * g. Database: List of
+  * Python plugins:
+    * https://pypi.org/project/indic-transliteration/
+    * https://pypi.org/project/sanskrit-data/
+
+| questions | answer options | answer type| with the levels | each answer rating| description|
+| --- | --- | --- | --- | --- | --- |
+| A | b | c | d| e | f |
+
+  * Actions: 
+    * Sam: Coordnate for the collaboration. https://learnsanskrit.org/grammar/ 
+    * AH: Flutter firebase as PoC code commit in stages.
+    * KK:Manual data content so that UI design can be planned.
+
+### 21.02.2021. IST: 20:00 to 21:00 
+
+* Participants: Anatha, KK.
+
+* Meeting points:
+  * Server: https://www.heroku.com/pricing 
+  * Content: can be on Heroku or InfinityApp
+  * Heroku is free for PoC, thus makes sense to get started.
+  * PythonAnyWhere: To do research. Potential for commercial app.
+  * InfinityFree App
+    * is free, we need PHP at server
+    * Creation of the domain via InfinityFree portal.
+    * InfinityFree we can also choose custom domain name.
+  * *Phase-1: Get started with Heroku. If more data storage needed, we can consider InfinityFree.*
+  * *Story of the application*: Teaching, Gaming, ec. TBD
+  * Phase-1: Contents: Text based, Image based.
+  * Phase-2: Phase-1 + Audio + Video
+  * Phase-3: + Mic
+* Focus: To have minimal infrastructure (basic, cloud/desktop) so that we can experiment on different stories.
+* Actions
+  * Research on the routing: Python Flask, Nodej-router
+  * Flutter code + firebase + heroku.
+  * Write a independent content scrapping/extractor
+
 ### 14.02.2021. IST: 20:00 to 21:00 
 
 * Participants: Anatha, KK.
