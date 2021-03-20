@@ -1,7 +1,31 @@
 Discussion points
 
+### 20.03.2021. IST: 20:00 to 21:00 
 
-### 21.02.2021. IST: 20:00 to 21:00 
+* Participants: Sampath, KK.
+* Meeting points
+  * Table? Data base for the learnsanskrit.
+  * Story telling/description as a feature in the app.
+  * Target audience: Kids, Teen, 
+  * Motivation section: Show case the importance and worthfulness. E.g. Why Sanskrit? Tab/section
+  * Helpful content: https://www.learnsanskrit.cc/index.php?mode=500
+  * Focus: Game.
+  * Target: Oher languages too
+  * Wiki: Collaborating culture.
+  * Webpage: Where people can put their view or use social media?
+  * Theme: Colors: One, two color, etc
+  * Icons: Cirlce, square, Swastik like, etc
+  * Online data collection form:
+
+|Level| Object name in Sanskrit | Object image | Object name in English| Object name pronounciation in english | object name pronounciation audio|
+|---|---|---|---|---|---|
+| Beginner | Pustaka | Image | aa | bb | cc |
+
+  * Level:  Beginner, Intermdiate, Expert
+  * Any object, house hold, body part, animals, environment, vehicles, flowers, fruits, etc.
+
+
+### 13.03.2021. IST: 20:00 to 21:00 
 
 * Participants: Anatha, Sampath, KK.
 * Meeting points
