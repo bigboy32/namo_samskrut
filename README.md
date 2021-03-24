@@ -19,6 +19,8 @@ Support are welcome in following activities:
 * http://www.sanskrit.nic.in/about_us.php
 * https://sanskrit.uohyd.ac.in/scl/
 * Course: https://livingsanskrit.com/our-courses/  (Social media: https://www.facebook.com/livingsanskrit/)
+* Sanskrit pronunciation: https://www.bolochant.com/blog/sanskrit-pronunciation
+* Katapayadi shankya: https://mysteriesexplored.wordpress.com/2011/08/24/amazing-encryption-technology-in-ancient-india-the-katapayadi-shankya/
 * Learn by images:
   * https://in.pinterest.com/sanskritvarta/_created/  (https://pin.it/3x58PxP)
   * https://in.pinterest.com/sanskritvarta/fruits-name-in-sanskrit-english/
