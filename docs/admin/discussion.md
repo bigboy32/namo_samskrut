@@ -2,6 +2,20 @@ Discussion points
 
 ### 20.03.2021. IST: 20:00 to 21:00 
 
+* Participants: Anatha, Sampath, KK.
+* Meeting points
+  * Skeleton is in-progress
+  * Actions theme: https://github.com/Ivaskuu/tinder_cards ; https://github.com/ShaunRain/flutter_tindercard
+  * TBD: Name suggestion: Until than Namo Samskrut
+  * Color theme: 
+    * sunrise, close to saffron
+    * TBD
+  * TBD: Icon
+  * Game engine: Unity, Unreal, or Carla.
+  * TBD: Data creation, collection, collaboration,
+ 
+### 20.03.2021. IST: 20:00 to 21:00 
+
 * Participants: Sampath, KK.
 * Meeting points
   * Table? Data base for the learnsanskrit.
@@ -10,11 +24,11 @@ Discussion points
   * Motivation section: Show case the importance and worthfulness. E.g. Why Sanskrit? Tab/section
   * Helpful content: https://www.learnsanskrit.cc/index.php?mode=500
   * Focus: Game.
-  * Target: Oher languages too
-  * Wiki: Collaborating culture.
-  * Webpage: Where people can put their view or use social media?
-  * Theme: Colors: One, two color, etc
-  * Icons: Cirlce, square, Swastik like, etc
+  * TBD: Target: Oher languages too
+  * TBD: Wiki: Collaborating culture.
+  * TBD: Webpage: Where people can put their view or use social media?
+  * TBD: Theme: Colors: One, two color, etc.
+  * TBD: Icons: Cirlce, square, Swastik like, etc.
   * Online data collection form:
 
 |Level| Object name in Sanskrit | Object image | Object name in English| Object name pronounciation in english | object name pronounciation audio|
