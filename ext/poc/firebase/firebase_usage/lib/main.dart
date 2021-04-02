@@ -80,13 +80,6 @@ class _SigUpState extends State<SigUp> {
                     ),
                   ),
                 ),
-                FlatButton(
-                  onPressed: (){
-                    //forgot password screen
-                  },
-                  textColor: Colors.blue,
-                  child: Text('Forgot Password'),
-                ),
                 Container(
                   height: 50,
                     padding: EdgeInsets.fromLTRB(10, 0, 10, 0),
@@ -121,7 +114,7 @@ class _SigUpState extends State<SigUp> {
                           style: TextStyle(fontSize: 20),
                         ),
                         onPressed: () {
-                          //signup screen
+                          Navigator.of(context).push(MaterialPageRoute(builder: (context) => LogIn()));
                         },
                       )
                     ],
@@ -132,7 +125,106 @@ class _SigUpState extends State<SigUp> {
   }
 }
 
+class LogIn extends StatefulWidget {
+  @override
+  _LogInState createState() => _LogInState();
+}
 
+class _LogInState extends State<LogIn> {
+  @override
+  TextEditingController emailController = TextEditingController();
+  TextEditingController passwordController = TextEditingController();
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(
+          title: Text('Sample App'),
+        ),
+        body: Padding(
+            padding: EdgeInsets.all(10),
+            child: ListView(
+              children: <Widget>[
+                Container(
+                    alignment: Alignment.center,
+                    padding: EdgeInsets.all(10),
+                    child: Text(
+                      'Sign Up!',
+                      style: TextStyle(fontSize: 20),
+                    )),
+                Container(
+                  padding: EdgeInsets.all(10),
+                  child: TextField(
+                    controller: emailController,
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(),
+                      labelText: 'Email',
+                    ),
+                  ),
+                ),
+                Container(
+                  padding: EdgeInsets.fromLTRB(10, 10, 10, 0),
+                  child: TextField(
+                    obscureText: true,
+                    controller: passwordController,
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(),
+                      labelText: 'Password',
+                    ),
+                  ),
+                ),
+                FlatButton(
+                  onPressed: () async {
+
+                    await FirebaseAuth.instance.sendPasswordResetEmail(email: emailController.text);
+                  },
+                  textColor: Colors.blue,
+                  child: Text('Forgot Password'),
+                ),
+                Container(
+                  height: 50,
+                    padding: EdgeInsets.fromLTRB(10, 0, 10, 0),
+                    child: RaisedButton(
+                      textColor: Colors.white,
+                      color: Colors.blue,
+                      child: Text('Login'),
+                      onPressed: () async {
+                        var worked = false;
+                        try {
+                          final user = await FirebaseAuth.instance.signInWithEmailAndPassword(email: emailController.text, password: passwordController.text);
+                          worked = true;
+                        } catch(e) {
+                          print(e);
+                          Navigator.of(context).push(MaterialPageRoute(builder: (context) => LogIn()));
+                        }
+
+                        if (worked) {
+                          Navigator.of(context).push(MaterialPageRoute(builder: (context) => MyStatefulWidget()));
+                        }
+
+                      },
+                    )),
+                Container(
+                  child: Row(
+                    children: <Widget>[
+                      Text('Have account?'),
+                      FlatButton(
+                        textColor: Colors.blue,
+                        child: Text(
+                          'Sign in',
+                          style: TextStyle(fontSize: 20),
+                        ),
+                        onPressed: () {
+                          Navigator.of(context).push(MaterialPageRoute(builder: (context) => LogIn()));
+                        },
+                      )
+                    ],
+                    mainAxisAlignment: MainAxisAlignment.center,
+                ))
+              ],
+            )));
+  }
+}
 
 
 /// This is the main application widget.
@@ -174,7 +266,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
           ),
           SliverList(delegate: SliverChildListDelegate([
             Padding(padding: EdgeInsets.all(10), child:ElevatedButton(onPressed: ()=>Navigator.of(context).push(MaterialPageRoute(builder: (context) => SigUp())), child: Text("Sign-Up"))),
-            Padding(padding: EdgeInsets.all(10), child:ElevatedButton(onPressed: (){}, child: Text("Login"))),
+            Padding(padding: EdgeInsets.all(10), child:ElevatedButton(onPressed: ()=>Navigator.of(context).push(MaterialPageRoute(builder: (context) => LogIn())), child: Text("Login"))),
           ]))
         ],
       ),
