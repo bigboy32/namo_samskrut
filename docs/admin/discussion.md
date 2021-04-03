@@ -1,5 +1,14 @@
 Discussion points
 
+### 03.04.2021. IST: 19:30 to 20:30 
+
+* Participants: Anatha, Sampath, KK.
+* Meeting points
+  * Demo the basic app on android
+  * Demo the app using IOS virtual environment
+  * Flutter firebase connectivitiy
+  * Phase-1: Offline app
+
 ### 20.03.2021. IST: 20:00 to 21:00 
 
 * Participants: Anatha, Sampath, KK.
