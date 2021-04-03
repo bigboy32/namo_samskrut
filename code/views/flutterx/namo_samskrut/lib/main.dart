@@ -71,8 +71,9 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-GameQA(), 
+          children: <Widget>[ 
+
+            GameQA(), 
             Text(
               'You have pushed the button this many times:',
             ),
@@ -80,6 +81,7 @@ GameQA(),
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
+            
           ],
         ),
       ),
